@@ -1,0 +1,7 @@
+Reserve Product,Timeframe (sec),Requirement (MW),Eligible Regions,Eligible Device Categories,Eligible Device SubCategories,Direction
+Reg_Up_R1,600,40.41,"(1,)",(Generator),"(Gas CT,Gas CC,Oil CT,Oil ST,Coal,Solar PV,Wind,CSP)",Up
+Reg_Up_R2,600,42.85,"(2,)",(Generator),"(Gas CT,Gas CC,Oil CT,Oil ST,Coal,Solar PV,Wind,CSP)",Up
+Reg_Up_R3,600,56.67,"(3,)",(Generator),"(Gas CT,Gas CC,Oil CT,Oil ST,Coal,Solar PV,Wind,CSP)",Up
+Reg_Down_R1,600,24.58,"(1,)",(Generator),"(Gas CT,Gas CC,Oil CT,Oil ST,Coal,Solar PV,Wind,CSP)",Down
+Reg_Down_R2,600,25.63,"(2,)",(Generator),"(Gas CT,Gas CC,Oil CT,Oil ST,Coal,Solar PV,Wind,CSP)",Down
+Reg_Down_R3,600,26.79,"(3,)",(Generator),"(Gas CT,Gas CC,Oil CT,Oil ST,Coal,Solar PV,Wind,CSP)",Down
